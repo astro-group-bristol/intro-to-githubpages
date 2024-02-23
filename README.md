@@ -2,6 +2,12 @@
 
 23rd Febuary 2024
 
+AIM of today.
+
+- Everyone will have a personal website. LIVE!!
+
+although it might not have much content.
+
 ## Why would you want a personal website?
 
 - A living CV.
@@ -85,3 +91,4 @@ Use this basic code.
 - custom URLs? (You must own the domain)
 - Customising the template.
 - More sofisticated workflows with github actions (https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+- https://docs.github.com/en/pages for more guidence on how to use github pages.
