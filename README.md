@@ -9,7 +9,7 @@
 - A way to standout
 - Show off some of your coding skills.
 
-A personal website for an academeic acts a s living protfolio of your expereinces qualifiacations, talks you have done, interests you have a a place to keep a list of your publications.
+A personal website for an academeic acts as a living protfolio of your expereinces qualifiacations, talks you have done, interests you have and a place to keep a list of your publications.
 
 
 As an example here are a few websites used by this group.
