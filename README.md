@@ -84,3 +84,4 @@ Use this basic code.
 
 - custom URLs? (You must own the domain)
 - Customising the template.
+- More sofisticated workflows with github actions (https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
